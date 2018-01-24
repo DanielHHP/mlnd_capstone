@@ -4,9 +4,15 @@
 
 [自然语言处理-文档归类](https://github.com/nd009/capstone/tree/master/document_classification)
 
+[数据获取](http://scikit-learn.org/stable/datasets/twenty_newsgroups.html)
+
 ## 参考链接
 
-[题目仓库](https://github.com/nd009/capstone)
+- [题目仓库](https://github.com/nd009/capstone)
+- [论文格式](https://jingyan.baidu.com/article/a948d65166e7880a2dcd2ebd.html)
+- [使用scikitlearn进行分类](http://scikit-learn.org/stable/auto_examples/text/document_classification_20newsgroups.html)
+- [tensorflow word2vec](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/word2vec/word2vec_basic.py)
+- [Comparison of FastText and Word2Vec](http://nbviewer.jupyter.org/github/jayantj/gensim/blob/683720515165a332baed8a2a46b6711cefd2d739/docs/notebooks/Word2Vec_FastText_Comparison.ipynb)
 
 开题
 

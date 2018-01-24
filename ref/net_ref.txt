@@ -1,0 +1,25 @@
+
+《【干货】一文搞懂现代情感分析方法》
+https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247486742&idx=1&sn=3cb49059f0fe6f8f59d7ce4fd2bab8e6&chksm=ebb435c2dcc3bcd41bd39a167542c81585cd00fd2e8968a9e100ce6cb11b5881b9786b480bcd&mpshare=1&scene=1&srcid=0107HYaF8ZAPNnLrNaVpOOy1&pass_ticket=1dUOLvMiiVIQJCfR2bDqnEiGBHrBjHd3r5h4Qzm2miNJQANqtRhnVrK164Zvx7FK#rd
+
+http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+
+http://scikit-learn.org/stable/datasets/twenty_newsgroups.html
+
+
+fasttext
+http://www.algorithmdog.com/fast-fasttext
+
+基于 word2vec 和 CNN 的文本分类 ：综述 & 实践
+https://zhuanlan.zhihu.com/p/29076736
+
+
+Character-level Convolutional Networks for Text
+ClassificationEfficient Character-level Document Classification by
+Combining Convolution and Recurrent LayersVery Deep Convolutional Networks
+for Natural Language Processing
+
+作者：Weijie Huang
+链接：https://www.zhihu.com/question/48688908/answer/114442523
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
