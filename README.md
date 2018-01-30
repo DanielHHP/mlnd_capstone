@@ -57,5 +57,8 @@ conda install tensorflow
 # for gpu
 conda install tensorflow-gpu
 
-conda install keras
+# use pip install to keep tensorflow package
+pip install keras
+
+conda install gensim
 ```
