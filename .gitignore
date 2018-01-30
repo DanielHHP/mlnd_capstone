@@ -70,3 +70,5 @@ target/
 # data
 20news_home/
 *.pkz
+text8
+text8.model*

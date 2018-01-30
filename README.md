@@ -43,3 +43,19 @@
 [文档分类](https://github.com/nd009/capstone/blob/master/report-example-2.pdf)
 
 [银行客户分类](https://github.com/nd009/capstone/blob/master/report-example-3.pdf)
+
+## 环境安装
+
+```shell
+conda create -n mlnd_capstone python=3.6
+activate mlnd_capstone
+conda install pandas matplotlib jupyter notebook scipy scikit-learn
+
+# for cpu
+conda install tensorflow
+
+# for gpu
+conda install tensorflow-gpu
+
+conda install keras
+```

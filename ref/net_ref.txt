@@ -23,3 +23,26 @@ for Natural Language Processing
 链接：https://www.zhihu.com/question/48688908/answer/114442523
 来源：知乎
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+
+[深度学习在文本分类中的应用]
+(https://mp.weixin.qq.com/s?__biz=MzI0OTQyNzEzMQ==&mid=2247486054&idx=1&sn=713b0cb002bf0f5ac216203dafc2e5ec&chksm=e990efb2dee766a4713a4ae78b6988345b292f8580b3fc1aec75e7309c0b61c5b65f53d96646&mpshare=1&scene=1&srcid=0126HK5wBsDbGNyCMw7MDSD3&pass_ticket=55wTuOPK3Xxt81W2F259MyGam6ooh4JanP1wUPxGH5ed2v6WFpHhi1bCM7EegfYS#rd)
+
+
+[基于上下文的文本分类]
+https://www.atatech.org/articles/98876/?flag_data_from=mail_daily_recommend&uid=24652
+
+
+tensorflow 训练word2vec
+https://github.com/tensorflow/tensorflow/blob/r0.7/tensorflow/examples/tutorials/word2vec/word2vec_basic.py
+
+gensim：关于 word2vec 模型的训练与效果对比
+http://blog.imaou.com/opensource/2015/08/31/how_to_train_word2vec.html
+默认sg=1是skip-gram算法，对低频词敏感；不过这里因为是计算近似词所以要选择CBOW(sg=0)；
+
+kaggel NLP kernels
+https://www.kaggle.com/c/spooky-author-identification/kernels
+
+
+char cnn代码例子
+https://github.com/purzelrakete/char-cnn/tree/master/charcnn
