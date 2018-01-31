@@ -60,5 +60,12 @@ conda install tensorflow-gpu
 # use pip install to keep tensorflow package
 pip install keras
 
-conda install gensim
+conda install gensim nltk lime
+```
+
+```python
+# nltk data download
+import nltk
+nltk.download('punkt')
+nltk.download('wordnet')
 ```

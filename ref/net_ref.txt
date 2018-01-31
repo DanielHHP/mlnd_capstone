@@ -2,10 +2,18 @@
 《【干货】一文搞懂现代情感分析方法》
 https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247486742&idx=1&sn=3cb49059f0fe6f8f59d7ce4fd2bab8e6&chksm=ebb435c2dcc3bcd41bd39a167542c81585cd00fd2e8968a9e100ce6cb11b5881b9786b480bcd&mpshare=1&scene=1&srcid=0107HYaF8ZAPNnLrNaVpOOy1&pass_ticket=1dUOLvMiiVIQJCfR2bDqnEiGBHrBjHd3r5h4Qzm2miNJQANqtRhnVrK164Zvx7FK#rd
 
+sklearn 20 newsgroup
 http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
-
 http://scikit-learn.org/stable/datasets/twenty_newsgroups.html
+http://scikit-learn.org/stable/datasets/#filtering-text-for-more-realistic-training
+http://scikit-learn.org/stable/auto_examples/text/document_classification_20newsgroups.html#sphx-glr-auto-examples-text-document-classification-20newsgroups-py
+http://scikit-learn.org/stable/auto_examples/model_selection/grid_search_text_feature_extraction.html#sphx-glr-auto-examples-model-selection-grid-search-text-feature-extraction-py
 
+stanford Classifier
+https://nlp.stanford.edu/wiki/Software/Classifier/20_Newsgroups
+
+keras examples
+https://github.com/keras-team/keras/tree/master/examples
 
 fasttext
 http://www.algorithmdog.com/fast-fasttext
@@ -46,3 +54,11 @@ https://www.kaggle.com/c/spooky-author-identification/kernels
 
 char cnn代码例子
 https://github.com/purzelrakete/char-cnn/tree/master/charcnn
+
+如何解决90％的自然语言处理问题：分步指南奉上
+https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247486933&idx=2&sn=ee86f1153852e2b79034a33d4d995c96&chksm=ebb43501dcc3bc172192afdb7d461eb1fdc5f4b7c20808bdc23eee6626ce4e1ce78c8cf4bcbf&mpshare=1&scene=1&srcid=0131Si6VGMBlIyQ0DKmPqWlz&pass_ticket=Jhrry0hh%2Bkmyt7cJ%2Bx5eygxGUb0R%2Ft2a1d4ZXR7gjPc%2Fv%2FHkWY1acKpYbpPRDqkJ#rd
+子文章：https://medium.freecodecamp.org/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274
+https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb
+
+lime模型解释
+https://github.com/marcotcr/lime
