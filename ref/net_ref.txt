@@ -12,6 +12,9 @@ http://scikit-learn.org/stable/auto_examples/model_selection/grid_search_text_fe
 stanford Classifier
 https://nlp.stanford.edu/wiki/Software/Classifier/20_Newsgroups
 
+Stemming and lemmatization
+https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
+
 keras examples
 https://github.com/keras-team/keras/tree/master/examples
 
@@ -20,6 +23,9 @@ http://www.algorithmdog.com/fast-fasttext
 
 基于 word2vec 和 CNN 的文本分类 ：综述 & 实践
 https://zhuanlan.zhihu.com/p/29076736
+
+Keras之文本分类实现, uda学习笔记
+https://zhuanlan.zhihu.com/p/29201491
 
 
 Character-level Convolutional Networks for Text
