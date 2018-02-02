@@ -69,3 +69,8 @@ import nltk
 nltk.download('punkt')
 nltk.download('wordnet')
 ```
+
+实验记录：
+
+TFIDF+NB: 78%
+textCNN: 66%
