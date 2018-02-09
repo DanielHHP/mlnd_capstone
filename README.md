@@ -74,3 +74,7 @@ nltk.download('wordnet')
 
 TFIDF+NB: 78%
 textCNN: 66%
+
+[Glovec](https://nlp.stanford.edu/projects/glove/)
+Glovec预训练词向量
+[Wikipedia 2014 + Gigaword 5](http://nlp.stanford.edu/data/glove.6B.zip)

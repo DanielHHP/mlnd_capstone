@@ -70,6 +70,6 @@ target/
 # data
 20news_home/
 *.pkz
-text8
-text8.model*
-glove.6B*
+word2vec/text8
+word2vec/text8.model*
+glove*

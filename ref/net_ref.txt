@@ -9,6 +9,15 @@ http://scikit-learn.org/stable/datasets/#filtering-text-for-more-realistic-train
 http://scikit-learn.org/stable/auto_examples/text/document_classification_20newsgroups.html#sphx-glr-auto-examples-text-document-classification-20newsgroups-py
 http://scikit-learn.org/stable/auto_examples/model_selection/grid_search_text_feature_extraction.html#sphx-glr-auto-examples-model-selection-grid-search-text-feature-extraction-py
 
+word2vec指标评价
+https://shanguangyu.com/articles/correlation-coefficient/
+
+learning curve
+http://scikit-learn.org/stable/modules/learning_curve.html
+
+cross validation
+http://scikit-learn.org/stable/modules/cross_validation.html
+
 stanford Classifier
 https://nlp.stanford.edu/wiki/Software/Classifier/20_Newsgroups
 
