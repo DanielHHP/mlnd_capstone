@@ -1,0 +1,41 @@
+# 项目说明
+
+## 数据依赖
+
+- 20 newsgroups数据集
+  - 分类任务数据集，通过sklearn库下载，已包含
+- [text8](http://mattmahoney.net/dc/text8.zip)
+  - text8词向量训练文件
+  - 文件放置目录：word2vec/text8
+- [glovec 预训练词向量 Wikipedia 2014 + Gigaword 5](http://nlp.stanford.edu/data/glove.6B.zip)
+  - 文件放置目录：glove2word2vec.6B.100d.txt
+- 词向量评估
+  - `questions-words.txt`: 类比任务评估数据，已包含
+  - `wordsim353.tsv`：同义词任务评估数据，已包含
+- nltk语料/知识库数据，使用下方代码下载
+  - wordnet：词形还原使用
+  - punkt：英文分词使用
+
+```python
+# nltk data download
+import nltk
+nltk.download('punkt')
+nltk.download('wordnet')
+```
+
+## 主要库依赖
+
+基于python 3.6开发运行。
+
+可以使用conda基于`requirements.yaml`或`requirements-gpu.yaml`环境描述文件来完成运行环境的构建。
+
+1. numpy：数学计算库
+2. sklearn：传统机器学习模型训练
+3. matplotlib：绘图库
+4. gensim：词向量库
+5. nltk：英文文本处理，包括分词，词干提取，词形还原等
+6. keras+tensorflow：深度模型训练
+
+## 运行说明
+
+环境安装好后，可以直接运行。在GPU 1060 环境下，预计需要2-3小时。
